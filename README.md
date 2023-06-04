@@ -27,3 +27,5 @@ Se você tiver alguma dúvida ou sugestão, entre em contato conosco pelo meu em
 ![image](https://github.com/nandinhaaa/AppConversorMoeda/assets/91507393/699fec2a-bf75-47dc-a964-c814a4fe7b0e)
 
 ## Criado por: Maria Fernanda 
+![alice](https://github.com/nandinhaaa/AppConversorMoeda/assets/91507393/c706a31f-bf77-4243-acff-4145683f70a4)
+
