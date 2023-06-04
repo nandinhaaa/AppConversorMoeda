@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ConversorApp</string>
+        <string name="hint_real">Real=</string>
+    <string name="btn_converter">Converter</string>
+    <string name="img_convert_moeda_description">Image for currency conversion</string>
+
+
+</resources>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#673AB7"
+    android:gravity="center">
+
+    <LinearLayout
+        android:layout_width="470dp"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="413dp"
+            android:layout_height="?attr/actionBarSize"
+            android:background="?attr/colorPrimary"
+            android:elevation="4dp"
+            android:theme="@style/ThemeOverlay.AppCompat.ActionBar" />
+
+        <ImageView
+            android:id="@+id/backgroundImage"
+            android:layout_width="match_parent"
+            android:layout_height="238dp"
+            android:src="@drawable/info" />
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="match_parent"
+            android:layout_height="258dp"
+            android:gravity="center"
+            android:textColor="#FFFFFF"
+            android:textSize="16sp"
+            android:text="2015: R$ 3,90\n2016: R$ 3,48\n2017: R$ 3,19\n2018: R$ 3,65\n2019: R$ 4,03\n2020: R$ 5,23\n2021: R$ 5,42\n2022: R$ 4,96\n2023: R$ 4,96" />
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="match_parent"
+            android:layout_height="126dp"
+            android:gravity="center"
+            android:textColor="#FFFFFF"
+            android:textSize="16sp"
+            android:text="A variação do dólar em relação a outras moedas é motivada principalmente por fatores econômicos, políticos e globais, como políticas monetárias, indicadores econômicos, instabilidade política, fluxos de capital e eventos internacionais." />
+    </LinearLayout>
+
+</RelativeLayout>
