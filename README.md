@@ -18,7 +18,7 @@ O projeto "AppConversorMoeda" é um aplicativo de conversão de moeda para dispo
 
 ## Contato
 
-Se você tiver alguma dúvida ou sugestão, entre em contato conosco pelo meu email [mariafernandaleee@gmail.com].
+Se você tiver alguma dúvida ou sugestão [mariafernandaleee@gmail.com].
 
 ### Active 1
 ![image](https://github.com/nandinhaaa/AppConversorMoeda/assets/91507393/51d679be-ce45-4fe2-8455-9ccef989f58a)
